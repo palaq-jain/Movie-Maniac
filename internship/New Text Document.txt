@@ -1,0 +1,10 @@
+<html>
+<head>
+<h1 style=" text-align:center; color: red; font-family: verdana; ">Movie Maniac</h1>
+<h2 style= " color: black">About</h2>
+</head>
+<body style="background-image: url( ' Jellyfish.jpg ' ); color: green; ">
+<p1><i>The content of this Website is designed purely for entertainment purposes.<br>It is just a Statistical view of the various types of Cinemas being produced and launched in the 
+Industry.<br>The content on this Website is just to help the viewers to identify and distinguish their tastes and likings.<br> However, there is no guarantee of any content mentioned here.</i></p1>
+</body>
+</html>
